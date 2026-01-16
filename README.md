@@ -1,95 +1,88 @@
 ## 👋 About Me
 
-I am a **student developer with a strong focus on server systems, networking, and embedded IoT**, driven by hands-on learning and real-world experimentation.
+I am a **student developer focused on server systems, networking, and IoT**, with a strong emphasis on hands-on learning and real-world system building.
 
-I enjoy building and managing complete systems by myself — from hardware and firmware to servers, services, and automation.  
-My approach is practical: I learn by deploying, breaking, fixing, and improving real systems.
+I enjoy working across multiple layers of technology — from embedded hardware and firmware to servers, networking, monitoring, and automation.  
+My approach is practical: I build real systems, deploy them, observe issues, and continuously improve stability and reliability.
 
 ---
 
 ## 🧑‍💻 What I Do
 
-- 🖥 Build and manage **Linux servers**
-- 🌐 Work with **networking, IP systems, and service connectivity**
+- 🖥 Build and manage **Linux-based servers**
+- 🌐 Work with **network systems, IP connectivity, and service communication**
 - ⚙️ Develop **embedded firmware** for ESP8266 / ESP32
-- 📡 Integrate **IoT devices with servers and services**
-- 🔧 Automate monitoring, reporting, and notifications
-- 🧪 Experiment with system performance, reliability, and stability
+- 📡 Integrate **IoT devices with servers and automation systems**
+- 🔔 Create **monitoring, alerting, and reporting tools**
+- 🧪 Experiment with system performance, uptime, and reliability
 
-I am comfortable handling both **hardware and software layers** of a system.
-
----
-
-## 🧠 Technical Focus
-
-### Server & System
-- Linux server administration
-- Service deployment and monitoring
-- Docker and container-based systems
-- System resource monitoring (CPU, RAM, Disk, Network)
-
-### Networking
-- IP networking fundamentals
-- Local server hosting
-- Connectivity testing and diagnostics
-- Network-based automation and alerts
-
-### Embedded & IoT
-- ESP8266 / ESP32
-- Embedded C/C++ (Arduino framework)
-- Sensors, displays, and peripheral integration
-- OLED SSD1306 user interfaces
-
-### Programming & Tools
-- C / C++
-- Python
-- Bash / Shell scripting
-- Git & GitHub
-- HTML / CSS (for dashboards and simple UIs)
+I am comfortable handling complete systems independently, from hardware to infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Skills & Technical Expertise
 
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🌐 Web Development
+- HTML5 – semantic markup for dashboards and system pages  
+- CSS3 – responsive layouts and UI styling  
+- JavaScript – client-side logic and interactivity  
+
+Used mainly for **monitoring dashboards, control panels, and system interfaces**.
+
+---
+
+### 💻 Programming Languages
+- **Python** – automation, bots, monitoring tools, scripting
+- **C / C++** – embedded firmware and low-level system logic
+- **Go** – backend services and experimental system tools
+
+---
+
+### 📡 IoT & Hardware
+- **Arduino** – prototyping and hardware control
+- **ESP8266 / ESP32** – IoT firmware, Wi-Fi connectivity, sensors
+- **Raspberry Pi** – local servers, gateways, edge computing
+- **MQTT** – device-to-server communication
+- **Home Assistant** – smart home systems and automation
+
+---
+
+### 🛠 Tools & Infrastructure
+- **Linux** – server administration and system operations
+- **Docker** – containerized services and deployments
+- **Git & GitHub** – version control and collaboration
+- **Network Systems** – IP networking, diagnostics, service monitoring
 
 ---
 
 ## 📂 Featured Projects
 
 - **AX-WiFi-ESP8266-OLED-SSD1306**  
-  Embedded firmware with OLED display and system logic
+  Embedded firmware project with OLED display, ESP8266 integration, and system logic
 
 - **Weather-box**  
-  Sensor-based system with server-side data handling
+  Environmental monitoring system combining sensors, microcontrollers, and server-side data handling
 
 - **Attendbot**  
-  Automation and notification system
+  Automation and notification system using bots and webhooks
 
-- **Server Monitoring & Automation (Experimental)**  
-  Resource monitoring, alerts, and service status reporting
+- **Server Monitoring & Reporting** *(Experimental)*  
+  Linux server resource monitoring with automated reports and alerts
 
----
+- **Network Status & Connectivity Checks** *(Experimental)*  
+  Network availability testing, uptime checks, and service diagnostics
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=12MICKY&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12MICKY&layout=compact&theme=tokyonight)
+- **Web-Based Dashboards**  
+  Simple web interfaces for visualizing system and device data
 
 ---
 
 ## 🎯 Goals
 
-- Become proficient in server and network system design
-- Build reliable end-to-end systems independently
-- Grow into a full-stack system and infrastructure engineer
-- Continue learning through real deployment and experimentation
+- Build strong foundations in **server and network systems**
+- Design reliable **end-to-end infrastructure**
+- Improve monitoring, automation, and observability skills
+- Grow into a **system, infrastructure, or DevOps-oriented engineer**
 
 ---
 
