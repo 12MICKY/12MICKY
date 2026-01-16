@@ -2,8 +2,8 @@
 
 I am a **student developer focused on server systems, networking, and IoT**, with a strong emphasis on hands-on learning and real-world system building.
 
-I enjoy working across multiple layers of technology — from embedded hardware and firmware to servers, networking, monitoring, and automation.  
-My approach is practical: I build real systems, deploy them, observe issues, and continuously improve stability and reliability.
+I enjoy working across the entire technology stack — from embedded hardware and firmware to servers, networking, monitoring, and automation.  
+My approach is practical: I build real systems, deploy them, observe failures, fix issues, and continuously improve reliability and performance.
 
 ---
 
@@ -14,44 +14,57 @@ My approach is practical: I build real systems, deploy them, observe issues, and
 - ⚙️ Develop **embedded firmware** for ESP8266 / ESP32
 - 📡 Integrate **IoT devices with servers and automation systems**
 - 🔔 Create **monitoring, alerting, and reporting tools**
-- 🧪 Experiment with system performance, uptime, and reliability
+- 🧪 Experiment with system performance, uptime, and stability
 
-I am comfortable handling complete systems independently, from hardware to infrastructure.
-
----
-
-## 🧠 Skills & Technical Expertise
-
-### 🌐 Web Development
-- HTML5 – semantic markup for dashboards and system pages  
-- CSS3 – responsive layouts and UI styling  
-- JavaScript – client-side logic and interactivity  
-
-Used mainly for **monitoring dashboards, control panels, and system interfaces**.
+I am comfortable handling **end-to-end systems independently**, from hardware to infrastructure.
 
 ---
+
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- **Python** – automation, bots, monitoring tools, scripting
-- **C / C++** – embedded firmware and low-level system logic
-- **Go** – backend services and experimental system tools
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Web & Dashboards
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
 ### 📡 IoT & Hardware
-- **Arduino** – prototyping and hardware control
-- **ESP8266 / ESP32** – IoT firmware, Wi-Fi connectivity, sensors
-- **Raspberry Pi** – local servers, gateways, edge computing
-- **MQTT** – device-to-server communication
-- **Home Assistant** – smart home systems and automation
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 ---
 
-### 🛠 Tools & Infrastructure
-- **Linux** – server administration and system operations
-- **Docker** – containerized services and deployments
-- **Git & GitHub** – version control and collaboration
-- **Network Systems** – IP networking, diagnostics, service monitoring
+### 🖥 Server, System & Network
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-2C2C2C?style=for-the-badge)
+![Self--Hosted](https://img.shields.io/badge/Self--Hosted-444444?style=for-the-badge)
+
+---
+
+### 🤖 Automation & Smart Systems
+![Home Assistant](https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+### 🧰 Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
 
