@@ -1,4 +1,4 @@
-# 👋 Thiraphat (12MICKY)
+#  Thiraphat Srichiit (12MICKY)
 
 **Student Infrastructure, Network & IoT Developer**  
 Focused on servers, networking, embedded systems, and self-hosted infrastructure.
