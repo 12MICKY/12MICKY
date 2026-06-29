@@ -102,20 +102,15 @@
 
 ### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab software, Satit Chulalongkorn University
 
-<table width="100%"><tr>
-<td align="center" width="33%">
+<div align="center">
+
 <a href="https://github.com/CudStemlab/Stemlab-Printfarm">
 <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/CudStemlab/Stemlab-Room-Booking-Website">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Room-Booking-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
-</td>
-<td align="center" width="33%">
+&nbsp;
 <a href="https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer">
 <img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm-Orca-Slicer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
-</td>
-</tr></table>
+
+</div>
 
 ---
 
