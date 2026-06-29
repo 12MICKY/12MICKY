@@ -93,7 +93,7 @@
 </td>
 </tr></table>
 
-### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab software, Satit Chulalongkorn University
+### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab software, Chulalongkorn University Demonstration Secondary School
 
 <table width="100%"><tr>
 <td align="center" width="33%">
