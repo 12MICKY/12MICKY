@@ -32,15 +32,15 @@
 ## Overview
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12MICKY&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12MICKY&theme=github_dark" width="100%" />
 </div>
 
 <table width="100%"><tr>
 <td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12MICKY&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12MICKY&theme=github_dark" width="100%" />
 </td>
 <td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12MICKY&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12MICKY&theme=github_dark" width="100%" />
 </td>
 <td align="center" width="33%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=12MICKY&theme=tokyonight&utcOffset=7" width="100%" />
