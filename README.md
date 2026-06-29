@@ -1,115 +1,84 @@
-#  Thiraphat Srichiit (12MICKY)
+# Thiraphat Srichit (12MICKY)
 
-**Student Infrastructure, Network & IoT Developer**  
-Focused on servers, networking, embedded systems, and self-hosted infrastructure.
+**Infrastructure · Network · IoT Developer**
 
-I am a hands-on student developer who enjoys building **real systems**, not just demos.  
-My work spans from **hardware and firmware** to **servers, networking, automation, and monitoring**.
+I build real systems — not demos. From MikroTik routing and K3s clusters to firmware on ESP32 and open source network tooling.
 
----
-
-## 🧠 About Me
-
-I specialize in designing and operating **end-to-end systems**, including:
-
-- Self-hosted servers on Linux
-- Network infrastructure using **MikroTik** and **UniFi**
-- IoT systems with ESP8266 / ESP32 and MQTT
-- Automation systems and monitoring dashboards
-- Practical networking, troubleshooting, and diagnostics
-
-I enjoy learning by building, breaking, fixing, and improving real deployments.
-
-📍 Thailand  
-🔗 https://linktr.ee/Thiraphat16
+📍 Bangkok, Thailand &nbsp;·&nbsp; 🔗 [linktr.ee/Thiraphat16](https://linktr.ee/Thiraphat16)
 
 ---
 
-## 🛠 Tech Stack
+## About
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+I specialize in end-to-end infrastructure — the kind where hardware, networking, servers, and software all have to work together in production.
 
----
-
-### 🌐 Web & Dashboards
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+- Self-hosted servers on Linux (Proxmox, K3s, Docker Swarm)
+- Network infrastructure with MikroTik RouterOS and UniFi
+- Observability with Prometheus, Grafana, and custom exporters
+- IoT systems on ESP8266 / ESP32 with MQTT
+- Automation, CI/CD, and self-hosted services
 
 ---
 
-### 📡 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
+## Organizations
+
+### [MikroJit Technologies](https://github.com/MikroJit-Technologies)
+Network engineering tools and infrastructure automation.
+
+| Project | Description |
+|---|---|
+| [mikrotik-exporter](https://github.com/MikroJit-Technologies/mikrotik-exporter) | Prometheus exporter for MikroTik RouterOS — 12 collectors, multi-device, Grafana dashboard |
+| [Network Tools](https://github.com/MikroJit-Technologies/Network-tools) | macOS/Linux network diagnostic toolkit — one `nt` command |
+| [Claude Skills](https://github.com/MikroJit-Technologies/claude-skills) | Production-ready Claude Code skills for infra engineers |
+
+### [SatitChulaStemlab](https://github.com/CudStemlab)
+Software for the STEM Laboratory at Satit Chulalongkorn University.
+
+| Project | Description |
+|---|---|
+| [Stemlab PrintFarm](https://github.com/CudStemlab/Stemlab-Printfarm) | 3D print farm management — job queue, webcam, Bambu/Snapmaker support |
+| [Stemlab Room Booking](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) | Lab and classroom booking with Google Calendar |
+| [Stemlab Orca Slicer](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) | Customized OrcaSlicer with PrintFarm integration |
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/K3s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Networking**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge)
+
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
 
 ---
 
-### 🖥 Server, System & Network
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Networking](https://img.shields.io/badge/Networking-2E2E2E?style=for-the-badge)
-![Self-Hosted](https://img.shields.io/badge/Self--Hosted-444444?style=for-the-badge)
+## Contact
 
----
-
-### 🌐 Network Devices
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge)
-![UniFi](https://img.shields.io/badge/UniFi-Network-0559C9?style=for-the-badge)
-
----
-
-### 🤖 Automation & Smart Systems
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant)
-![Discord Bot](https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord)
-
----
-
-### 🧰 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash)
-
----
-
-## 📂 Featured Projects
-
-- **Infrastructure Portfolio**  
-  Linux servers, Docker services, monitoring, and self-hosted tools
-
-- **Network Systems**  
-  Real network setup using MikroTik routing and UniFi management
-
-- **IoT & Smart Systems**  
-  ESP8266/ESP32, MQTT, Home Assistant automation
-
-- **Discord & Automation Bots**  
-  Bots for monitoring, notifications, and system integration
-
----
-
-## 🎯 Focus & Direction
-
-My goal is to grow as an **Infrastructure / Network / System Engineer**  
-with strong foundations in:
-
-- Linux & servers
-- Networking and routing
-- Embedded and IoT systems
-- Automation and monitoring
-
-I believe strong systems are built by understanding **how everything connects together**.
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/12MICKY  
-- Linktree: https://linktr.ee/Thiraphat16
+[GitHub](https://github.com/12MICKY) &nbsp;·&nbsp; [Linktree](https://linktr.ee/Thiraphat16) &nbsp;·&nbsp; [contact@thiraphat.work](mailto:contact@thiraphat.work)
