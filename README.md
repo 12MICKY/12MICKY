@@ -138,6 +138,20 @@ Software for the STEM Lab at Satit Chulalongkorn University.
 
 ---
 
+## Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+</picture>
+
+</div>
+
+---
+
 ## Activity
 
 <div align="center">
