@@ -83,36 +83,29 @@
 
 ## Organizations
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [MikroJit Technologies](https://github.com/MikroJit-Technologies) — Network tooling &amp; infrastructure automation
 
-### [MikroJit Technologies](https://github.com/MikroJit-Technologies)
+<div align="center">
 
-Network engineering tools and infrastructure automation — open source, production-grade.
+[![mikrotik-exporter](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=mikrotik-exporter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/mikrotik-exporter)
+&nbsp;
+[![Network-tools](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=Network-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/Network-tools)
 
-| | Project |
-|---|---|
-| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/mikrotik-exporter?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/mikrotik-exporter) | [**mikrotik-exporter**](https://github.com/MikroJit-Technologies/mikrotik-exporter) — Prometheus exporter for RouterOS, 12 collectors |
-| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/Network-tools?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/Network-tools) | [**Network Tools**](https://github.com/MikroJit-Technologies/Network-tools) — macOS/Linux network diagnostics |
-| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/claude-skills?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/claude-skills) | [**Claude Skills**](https://github.com/MikroJit-Technologies/claude-skills) — AI skills for infra engineers |
+[![claude-skills](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=claude-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/claude-skills)
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### [SatitChulaStemlab](https://github.com/CudStemlab)
+### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab software, Satit Chulalongkorn University
 
-Software for the STEM Lab at Satit Chulalongkorn University.
+<div align="center">
 
-| | Project |
-|---|---|
-| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Printfarm?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Printfarm) | [**PrintFarm**](https://github.com/CudStemlab/Stemlab-Printfarm) — 3D print farm management system |
-| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Room-Booking-Website?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) | [**Room Booking**](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) — Lab scheduling with Google Calendar |
-| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Printfarm-Orca-Slicer?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) | [**Orca Slicer**](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) — OrcaSlicer fork with PrintFarm login |
+[![Stemlab-Printfarm](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Printfarm)
+&nbsp;
+[![Stemlab-Room-Booking-Website](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Room-Booking-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Room-Booking-Website)
 
-</td>
-</tr>
-</table>
+[![Stemlab-Printfarm-Orca-Slicer](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm-Orca-Slicer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer)
+
+</div>
 
 ---
 
