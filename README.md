@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:388bfd&height=220&section=header&text=Thiraphat%20Srichit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=12MICKY%20·%20Infrastructure%20%26%20Network%20Engineer&descAlignY=62&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:388bfd&height=220&section=header&text=Thiraphat%20Srichit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=12MICKY%20%7C%20Infrastructure%20%2B%20Network%20Engineer&descAlignY=62&descSize=18&descColor=8b949e" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=620&lines=Building+real+infrastructure%2C+not+demos.;MikroTik+RouterOS+%2F+WireGuard+%2F+BGP;Kubernetes+K3s+%2F+Docker+Swarm+%2F+Proxmox;Go+%7C+Python+%7C+TypeScript+%7C+C%2B%2B;Network+%E2%86%92+Server+%E2%86%92+Software+%E2%86%92+Done.)](https://git.io/typing-svg)
 
