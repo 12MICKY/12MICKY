@@ -1,84 +1,157 @@
-# Thiraphat Srichit (12MICKY)
+<div align="center">
 
-**Infrastructure · Network · IoT Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:388bfd&height=220&section=header&text=Thiraphat%20Srichit&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=12MICKY%20·%20Infrastructure%20%26%20Network%20Engineer&descAlignY=62&descSize=18&descColor=8b949e" width="100%" />
 
-I build real systems — not demos. From MikroTik routing and K3s clusters to firmware on ESP32 and open source network tooling.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=388BFD&center=true&vCenter=true&width=620&lines=Building+real+infrastructure%2C+not+demos.;MikroTik+RouterOS+%2F+WireGuard+%2F+BGP;Kubernetes+K3s+%2F+Docker+Swarm+%2F+Proxmox;Go+%7C+Python+%7C+TypeScript+%7C+C%2B%2B;Network+%E2%86%92+Server+%E2%86%92+Software+%E2%86%92+Done.)](https://git.io/typing-svg)
 
-📍 Bangkok, Thailand &nbsp;·&nbsp; 🔗 [linktr.ee/Thiraphat16](https://linktr.ee/Thiraphat16)
+<br/>
 
----
+[![Profile views](https://komarev.com/ghpvc/?username=12MICKY&color=388bfd&style=flat-square&label=profile+views)](https://github.com/12MICKY)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/12MICKY?style=flat-square&color=388bfd&label=followers)](https://github.com/12MICKY?tab=followers)
+&nbsp;
+[![Stars](https://img.shields.io/github/stars/12MICKY?style=flat-square&color=f0883e&label=stars+earned)](https://github.com/12MICKY)
 
-## About
-
-I specialize in end-to-end infrastructure — the kind where hardware, networking, servers, and software all have to work together in production.
-
-- Self-hosted servers on Linux (Proxmox, K3s, Docker Swarm)
-- Network infrastructure with MikroTik RouterOS and UniFi
-- Observability with Prometheus, Grafana, and custom exporters
-- IoT systems on ESP8266 / ESP32 with MQTT
-- Automation, CI/CD, and self-hosted services
+</div>
 
 ---
 
-## Organizations
+```go
+package main
 
-### [MikroJit Technologies](https://github.com/MikroJit-Technologies)
-Network engineering tools and infrastructure automation.
+type Engineer struct {
+	Name     string
+	Location string
+	Focus    []string
+	Stack    map[string][]string
+	Running  string
+}
 
-| Project | Description |
-|---|---|
-| [mikrotik-exporter](https://github.com/MikroJit-Technologies/mikrotik-exporter) | Prometheus exporter for MikroTik RouterOS — 12 collectors, multi-device, Grafana dashboard |
-| [Network Tools](https://github.com/MikroJit-Technologies/Network-tools) | macOS/Linux network diagnostic toolkit — one `nt` command |
-| [Claude Skills](https://github.com/MikroJit-Technologies/claude-skills) | Production-ready Claude Code skills for infra engineers |
+var me = Engineer{
+	Name:     "Thiraphat Srichit",
+	Location: "Bangkok, Thailand 🇹🇭",
+	Focus:    []string{"Infrastructure", "Networking", "Systems Engineering"},
+	Stack: map[string][]string{
+		"languages": {"Go", "Python", "TypeScript", "C++", "Bash"},
+		"infra":     {"Proxmox", "K3s", "Docker Swarm", "Cloudflare"},
+		"network":   {"MikroTik RouterOS", "WireGuard", "BGP", "OSPF", "UniFi"},
+		"observe":   {"Prometheus", "Grafana", "custom exporters"},
+		"iot":       {"ESP32", "ESP8266", "Arduino", "MQTT"},
+	},
+	Running:  "Self-hosted infrastructure serving real users — 24/7",
+}
+```
 
-### [SatitChulaStemlab](https://github.com/CudStemlab)
-Software for the STEM Laboratory at Satit Chulalongkorn University.
+---
 
-| Project | Description |
-|---|---|
-| [Stemlab PrintFarm](https://github.com/CudStemlab/Stemlab-Printfarm) | 3D print farm management — job queue, webcam, Bambu/Snapmaker support |
-| [Stemlab Room Booking](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) | Lab and classroom booking with Google Calendar |
-| [Stemlab Orca Slicer](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) | Customized OrcaSlicer with PrintFarm integration |
+## Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=12MICKY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=12MICKY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=12MICKY&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f0883e&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=388bfd&sideLabels=8b949e&dates=8b949e" />
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=12MICKY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+
+</div>
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=go,python,ts,cpp,bash,c&theme=dark)](https://skillicons.dev)
 
-**Infrastructure**
+**Infrastructure & Cloud**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K3s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,github,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
-**Networking**
+**Web & Frameworks**
 
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge)
-
-**Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,nginx,postgres&theme=dark)](https://skillicons.dev)
 
 **IoT & Hardware**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+
+**Network Stack**
+
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square&logo=mikrotik)
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard)
+![BGP](https://img.shields.io/badge/BGP-Routing-1a2332?style=flat-square)
+![OSPF](https://img.shields.io/badge/OSPF-Routing-1a2332?style=flat-square)
+![UniFi](https://img.shields.io/badge/UniFi-Wireless-0559C9?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnels-F38020?style=flat-square&logo=cloudflare)
+
+</div>
 
 ---
 
-## Contact
+## Organizations
 
-[GitHub](https://github.com/12MICKY) &nbsp;·&nbsp; [Linktree](https://linktr.ee/Thiraphat16) &nbsp;·&nbsp; [contact@thiraphat.work](mailto:contact@thiraphat.work)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [MikroJit Technologies](https://github.com/MikroJit-Technologies)
+
+Network engineering tools and infrastructure automation — open source, production-grade.
+
+| | Project |
+|---|---|
+| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/mikrotik-exporter?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/mikrotik-exporter) | [**mikrotik-exporter**](https://github.com/MikroJit-Technologies/mikrotik-exporter) — Prometheus exporter for RouterOS, 12 collectors |
+| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/Network-tools?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/Network-tools) | [**Network Tools**](https://github.com/MikroJit-Technologies/Network-tools) — macOS/Linux network diagnostics |
+| [![Stars](https://img.shields.io/github/stars/MikroJit-Technologies/claude-skills?style=flat-square&color=f0883e)](https://github.com/MikroJit-Technologies/claude-skills) | [**Claude Skills**](https://github.com/MikroJit-Technologies/claude-skills) — AI skills for infra engineers |
+
+</td>
+<td width="50%" valign="top">
+
+### [SatitChulaStemlab](https://github.com/CudStemlab)
+
+Software for the STEM Lab at Satit Chulalongkorn University.
+
+| | Project |
+|---|---|
+| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Printfarm?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Printfarm) | [**PrintFarm**](https://github.com/CudStemlab/Stemlab-Printfarm) — 3D print farm management system |
+| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Room-Booking-Website?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) | [**Room Booking**](https://github.com/CudStemlab/Stemlab-Room-Booking-Website) — Lab scheduling with Google Calendar |
+| [![Stars](https://img.shields.io/github/stars/CudStemlab/Stemlab-Printfarm-Orca-Slicer?style=flat-square&color=f0883e)](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) | [**Orca Slicer**](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer) — OrcaSlicer fork with PrintFarm login |
+
+</td>
+</tr>
+</table>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=12MICKY&theme=tokyo-night&bg_color=0d1117&color=388bfd&line=388bfd&point=f0883e&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:0d1117&height=100&section=footer" width="100%" />
+
+**[linktr.ee/Thiraphat16](https://linktr.ee/Thiraphat16)** &nbsp;·&nbsp; **[contact@thiraphat.work](mailto:contact@thiraphat.work)**
+
+</div>
