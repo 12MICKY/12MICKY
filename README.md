@@ -16,34 +16,6 @@
 
 ---
 
-```go
-package main
-
-type Engineer struct {
-	Name     string
-	Location string
-	Focus    []string
-	Stack    map[string][]string
-	Running  string
-}
-
-var me = Engineer{
-	Name:     "Thiraphat Srichit",
-	Location: "Bangkok, Thailand 🇹🇭",
-	Focus:    []string{"Infrastructure", "Networking", "Systems Engineering"},
-	Stack: map[string][]string{
-		"languages": {"Go", "Python", "TypeScript", "C++", "Bash"},
-		"infra":     {"Proxmox", "K3s", "Docker Swarm", "Cloudflare"},
-		"network":   {"MikroTik RouterOS", "WireGuard", "BGP", "OSPF", "UniFi"},
-		"observe":   {"Prometheus", "Grafana", "custom exporters"},
-		"iot":       {"ESP32", "ESP8266", "Arduino", "MQTT"},
-	},
-	Running:  "Self-hosted infrastructure serving real users — 24/7",
-}
-```
-
----
-
 ## Stats
 
 <div align="center">
