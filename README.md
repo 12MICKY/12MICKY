@@ -85,27 +85,37 @@
 
 ### [MikroJit Technologies](https://github.com/MikroJit-Technologies) — Network tooling &amp; infrastructure automation
 
-<div align="center">
-
-[![mikrotik-exporter](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=mikrotik-exporter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/mikrotik-exporter)
-&nbsp;
-[![Network-tools](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=Network-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/Network-tools)
-
-[![claude-skills](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=claude-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/MikroJit-Technologies/claude-skills)
-
-</div>
+<table width="100%"><tr>
+<td align="center" width="33%">
+<a href="https://github.com/MikroJit-Technologies/mikrotik-exporter">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=mikrotik-exporter&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/MikroJit-Technologies/Network-tools">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=Network-tools&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/MikroJit-Technologies/claude-skills">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=MikroJit-Technologies&repo=claude-skills&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+</tr></table>
 
 ### [SatitChulaStemlab](https://github.com/CudStemlab) — STEM Lab software, Satit Chulalongkorn University
 
-<div align="center">
-
-[![Stemlab-Printfarm](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Printfarm)
-&nbsp;
-[![Stemlab-Room-Booking-Website](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Room-Booking-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Room-Booking-Website)
-
-[![Stemlab-Printfarm-Orca-Slicer](https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm-Orca-Slicer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9)](https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer)
-
-</div>
+<table width="100%"><tr>
+<td align="center" width="33%">
+<a href="https://github.com/CudStemlab/Stemlab-Printfarm">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/CudStemlab/Stemlab-Room-Booking-Website">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Room-Booking-Website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/CudStemlab/Stemlab-Printfarm-Orca-Slicer">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/pin/?username=CudStemlab&repo=Stemlab-Printfarm-Orca-Slicer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9" /></a>
+</td>
+</tr></table>
 
 ---
 
