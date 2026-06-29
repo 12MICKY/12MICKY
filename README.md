@@ -23,15 +23,9 @@
 <img src="https://github-readme-stats-salesp07.vercel.app/api?username=12MICKY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&icon_color=388bfd&text_color=c9d1d9&rank_icon=github&count_private=true" width="100%" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=12MICKY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9&langs_count=6" width="100%" />
+<img src="https://streak-stats.demolab.com?user=12MICKY&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f0883e&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=388bfd&sideLabels=8b949e&dates=8b949e" width="100%" />
 </td>
 </tr></table>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=12MICKY&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=f0883e&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=388bfd&sideLabels=8b949e&dates=8b949e" width="100%" />
-
-</div>
 
 ---
 
@@ -44,14 +38,11 @@
 </div>
 
 <table width="100%"><tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12MICKY&theme=tokyonight" width="100%" />
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12MICKY&theme=tokyonight" width="100%" />
-</td>
-<td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=12MICKY&theme=tokyonight" width="100%" />
 </td>
 </tr></table>
 
