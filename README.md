@@ -52,30 +52,22 @@
 
 <div align="center">
 
-**Languages**
+[![Skills](https://skillicons.dev/icons?i=go,python,ts,cpp,bash,c&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,ts,cpp,bash,c&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,grafana,prometheus,nginx&theme=dark)](https://skillicons.dev)
 
-**Infrastructure & Cloud**
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,postgres,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,github,grafana,prometheus&theme=dark)](https://skillicons.dev)
+<br/>
 
-**Web & Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,nginx,postgres&theme=dark)](https://skillicons.dev)
-
-**IoT & Hardware**
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark)](https://skillicons.dev)
-
-**Network Stack**
-
-![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square&logo=mikrotik)
-![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard)
-![BGP](https://img.shields.io/badge/BGP-Routing-1a2332?style=flat-square)
-![OSPF](https://img.shields.io/badge/OSPF-Routing-1a2332?style=flat-square)
-![UniFi](https://img.shields.io/badge/UniFi-Wireless-0559C9?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Tunnels-F38020?style=flat-square&logo=cloudflare)
+![MikroTik](https://img.shields.io/badge/MikroTik-RouterOS-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-1a2332?style=flat-square)
+![OSPF](https://img.shields.io/badge/OSPF-1a2332?style=flat-square)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 </div>
 
