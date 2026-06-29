@@ -108,30 +108,6 @@
 
 ---
 
-## Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/12MICKY/12MICKY/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
-</picture>
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=12MICKY&theme=tokyo-night&bg_color=0d1117&color=388bfd&line=388bfd&point=f0883e&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,100:0d1117&height=100&section=footer" width="100%" />
