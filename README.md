@@ -43,7 +43,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12MICKY&theme=github_dark" width="100%" />
 </td>
 <td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=12MICKY&theme=tokyonight&utcOffset=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=12MICKY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&row=1" width="100%" />
 </td>
 </tr></table>
 
