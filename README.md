@@ -32,18 +32,15 @@
 ## Overview
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=12MICKY&theme=github_dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=12MICKY&theme=tokyo-night&bg_color=0d1117&color=388bfd&line=388bfd&point=f0883e&hide_border=true&area=true&area_color=1a2332" width="100%" />
 </div>
 
 <table width="100%"><tr>
-<td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=12MICKY&theme=github_dark" width="100%" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=12MICKY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=388bfd&text_color=c9d1d9&langs_count=8&count_private=true" width="100%" />
 </td>
-<td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=12MICKY&theme=github_dark" width="100%" />
-</td>
-<td align="center" width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=12MICKY&theme=tokyonight&utcOffset=7" width="100%" />
+<td align="center" width="50%">
+<img src="https://github-profile-trophy.vercel.app/?username=12MICKY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&row=1" width="100%" />
 </td>
 </tr></table>
 
